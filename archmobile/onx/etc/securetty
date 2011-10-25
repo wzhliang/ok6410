@@ -1,0 +1,18 @@
+#
+# /etc/securetty
+#
+
+console
+tty1
+tty2
+tty3
+tty4
+tty5
+tty6
+ttyS0
+ttySAC0
+s3c2410_serial0
+hvc0
+
+# End of file
+
